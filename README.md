@@ -1,10 +1,8 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Atanu👋
 
-I'm a [Your Job Title] from [Your City, Your Country].
+## 🌱 What I'm currently doing
 
-## 🌱 What I'm currently learning
-
-- [Subject or technology you're currently learning]
+- Computer Science Engineering
 
 ## 👯 I'm looking to collaborate on
 
