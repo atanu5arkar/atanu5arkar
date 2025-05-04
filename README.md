@@ -1,22 +1,11 @@
-# Hello, I'm Atanu👋
+# Hi 👋 I'm Atanu.
+A Software Engineer from India, passionate about building reliable, production-grade web applications. Always open for contribution to growth-focused teams.
 
-I am a **Computer Science Engineer** specialized in *Web Software Development* with 2 years of immersive experience at an [engineering bootcamp](https://cs.code.in/). Proficient with the MERN stack, I am dedicated to crafting quality code and delivering high-performance apps. 
+## 🛠️ My Tools
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## 🛠 Skills & Expertise
+## 🌐 Want to connect?
 
-### Programming Languages
-JavaScript, Python, C
-
-### Libraries and Frameworks
-Node.js, Express.js, JWT, Mongoose, Redis, ReactJS, Tailwind, EJS
-
-### Tools
-Git, AWS, Nginx, GitHub Actions (CI/CD), Docker
-
----
-
-### Want to Connect?
-<a href="mailto:atanu_sarkar1@outlook.com"><img src="https://img.shields.io/badge/Mail-gray?logo=mailgun&logoColor=white&style=flat"></a>
-<a href="https://www.linkedin.com/in/atanu23"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/x_atanu"><img src="https://img.shields.io/twitter/follow/x_atanu?label=Twitter&style=social"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atanu23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x_atanu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atanu_sarkar1@outlook.com) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
